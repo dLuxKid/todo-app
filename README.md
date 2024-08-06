@@ -20,7 +20,7 @@ Ensure you have the following installed on your local development environment:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/nextjs-todo-app.git
+    git clone [https://github.com/your-username/nextjs-todo-app.git](https://github.com/dLuxKid/todo-app.git)
     cd nextjs-todo-app
     ```
 
